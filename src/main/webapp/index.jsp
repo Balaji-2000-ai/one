@@ -9,6 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h2 style="color: grey; font-size: 40px;" align="center">DEPLOYED APPLICATION</h2>
 	<h1 style="color: pink; font-size: 40px;" align="center">Deploying APPLICATION</h1>
+	<h1 style="color: grey; font-size: 40px;" align="center">Deploying APPLICATION on my own</h1>
 	
 	
 	
