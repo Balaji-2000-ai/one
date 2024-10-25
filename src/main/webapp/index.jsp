@@ -12,6 +12,7 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">Deploying APPLICATION on my own</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">Practicing nexus</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">Practicing nexus on my own</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">Practicing nexus on my own for my project</h1>
 	
 	
 	
